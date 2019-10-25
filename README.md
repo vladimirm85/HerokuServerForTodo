@@ -1,3 +1,3 @@
 # heroku-strapi-todo-api
 
-A quick description of heroku-strapi-todo-api.
+https://heroku-strapi-todo-api.herokuapp.com
