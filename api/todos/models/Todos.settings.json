@@ -1,0 +1,24 @@
+{
+  "connection": "default",
+  "collectionName": "todos",
+  "info": {
+    "name": "todos",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "comment": ""
+  },
+  "attributes": {
+    "name": {
+      "unique": true,
+      "required": true,
+      "type": "string"
+    },
+    "isCompleted": {
+      "required": true,
+      "type": "boolean"
+    }
+  }
+}
